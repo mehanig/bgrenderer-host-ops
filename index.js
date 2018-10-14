@@ -1,0 +1,1 @@
+alert("Sorry. Use bgrenderer package from other sources.");
